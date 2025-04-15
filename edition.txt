@@ -1,5 +1,3 @@
 Here is some example work...
 
-Fixed the error!
-
-My favorite food is pizza
+this is an error
